@@ -1,0 +1,1 @@
+Converts a list of names and keybinds into ahk script.
